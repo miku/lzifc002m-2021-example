@@ -5,4 +5,7 @@ This is a example python program.
 """
 
 x = "hello world"
-print(x)
+print( x,    x)
+
+
+
